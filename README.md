@@ -1,1 +1,4 @@
-# My-oop-assignment
+# my-individual-python
+NAME:SABRINA FAROUK MSUYA
+REG NO: BCS-02-0051-2024
+BACHELOR OF COMPUTER SCIENCE
